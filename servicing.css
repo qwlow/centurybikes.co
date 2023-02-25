@@ -796,7 +796,7 @@
 }
 
 .u-section-3 .u-container-layout-3 {
-  padding: 20px;
+  padding: 20px 30px;
 }
 
 @media (max-width: 1199px) {
@@ -839,11 +839,6 @@
     padding-left: 10px;
     padding-right: 10px;
   }
-
-  .u-section-3 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
 }
 
 @media (max-width: 575px) {
@@ -864,10 +859,5 @@
   .u-section-3 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
-  }
-
-  .u-section-3 .u-container-layout-3 {
-    padding-left: 20px;
-    padding-right: 20px;
   }
 }
