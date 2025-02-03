@@ -213,6 +213,7 @@
 .u-section-2 .u-text-3 {
   font-size: 1.125rem;
   margin: 35px 0 0;
+  line-height: 1.4;
 }
 
 @media (max-width: 1199px) {
